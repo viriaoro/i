@@ -1,0 +1,250 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+Theme<|||>1<|||>Windows
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr Variable Foreground<|||>3<|||>8388736
+FieldColor_Binary<|||>3<|||>8388736
+FieldColor_Datetime<|||>3<|||>128
+FieldColor_Numeric<|||>3<|||>16711680
+FieldColor_Other<|||>3<|||>32896
+FieldColor_Real<|||>3<|||>16711752
+FieldColor_Spatial<|||>3<|||>8421376
+FieldColor_Text<|||>3<|||>32768
+UpdatecheckLastrun<|||>1<|||>2020-02-29 14:53:32
+LastUsageStatisticCall<|||>1<|||>2020-02-03 15:58:51
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,153
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Restaurante_
+LastActiveSession<|||>1<|||>Restaurante_
+CreateDbCollation<|||>1<|||>utf8mb4_general_ci
+MainWinTop<|||>3<|||>101
+MainWinWidth<|||>3<|||>949
+MainWinHeight<|||>3<|||>599
+ColWidths_frmTableEditor.listColumns<|||>1<|||>54,135,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>794,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>368,272,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+querymemoheight<|||>3<|||>314
+MainWinMaximized<|||>3<|||>1
+SQLFile0<|||>1<|||>C:\Users\ProBook\Documents\restauramte.sql
+ExportSQL_Filenames<|||>1<|||>verify<{{{><}}}>
+Servers\Restaurante\SessionCreated<|||>1<|||>2020-02-13 07:25:32
+Servers\Restaurante\Folder<|||>3<|||>1
+Servers\Restaurante\Unnamed\SessionCreated<|||>1<|||>2020-02-13 07:25:58
+Servers\Restaurante\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Restaurante\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Restaurante\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Restaurante\Unnamed\User<|||>1<|||>root
+Servers\Restaurante\Unnamed\Password<|||>1<|||>7
+Servers\Restaurante\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Restaurante\Unnamed\Port<|||>1<|||>3306
+Servers\Restaurante\Unnamed\NetType<|||>3<|||>0
+Servers\Restaurante\Unnamed\Compressed<|||>3<|||>0
+Servers\Restaurante\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Restaurante\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Restaurante\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Restaurante\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Restaurante\Unnamed\Databases<|||>1<|||>
+Servers\Restaurante\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Restaurante\Unnamed\Comment<|||>1<|||>
+Servers\Restaurante\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Restaurante\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Restaurante\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Restaurante\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Restaurante\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Restaurante\Unnamed\SSHtunnelPassword<|||>1<|||>7
+Servers\Restaurante\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Restaurante\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Restaurante\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Restaurante\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Restaurante\Unnamed\SSL_Key<|||>1<|||>
+Servers\Restaurante\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Restaurante\Unnamed\SSL_CA<|||>1<|||>
+Servers\Restaurante\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Restaurante\Unnamed\RefusedCount<|||>3<|||>2
+Servers\Restaurante_\SessionCreated<|||>1<|||>2020-02-13 08:48:15
+Servers\Restaurante_\Host<|||>1<|||>127.0.0.1
+Servers\Restaurante_\WindowsAuth<|||>3<|||>0
+Servers\Restaurante_\CleartextPluginEnabled<|||>3<|||>0
+Servers\Restaurante_\User<|||>1<|||>root
+Servers\Restaurante_\Password<|||>1<|||>3
+Servers\Restaurante_\LoginPrompt<|||>3<|||>0
+Servers\Restaurante_\Port<|||>1<|||>3306
+Servers\Restaurante_\NetType<|||>3<|||>0
+Servers\Restaurante_\Compressed<|||>3<|||>0
+Servers\Restaurante_\LocalTimeZone<|||>3<|||>0
+Servers\Restaurante_\QueryTimeout<|||>3<|||>30
+Servers\Restaurante_\KeepAlive<|||>3<|||>20
+Servers\Restaurante_\FullTableStatus<|||>3<|||>1
+Servers\Restaurante_\Databases<|||>1<|||>
+Servers\Restaurante_\Library<|||>1<|||>libmariadb.dll
+Servers\Restaurante_\Comment<|||>1<|||>
+Servers\Restaurante_\StartupScriptFilename<|||>1<|||>
+Servers\Restaurante_\TreeBackground<|||>3<|||>536870911
+Servers\Restaurante_\SSHtunnelHost<|||>1<|||>
+Servers\Restaurante_\SSHtunnelHostPort<|||>3<|||>22
+Servers\Restaurante_\SSHtunnelUser<|||>1<|||>
+Servers\Restaurante_\SSHtunnelPassword<|||>1<|||>2
+Servers\Restaurante_\SSHtunnelTimeout<|||>3<|||>4
+Servers\Restaurante_\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Restaurante_\SSHtunnelPort<|||>3<|||>3307
+Servers\Restaurante_\SSL_Active<|||>3<|||>0
+Servers\Restaurante_\SSL_Key<|||>1<|||>
+Servers\Restaurante_\SSL_Cert<|||>1<|||>
+Servers\Restaurante_\SSL_CA<|||>1<|||>
+Servers\Restaurante_\SSL_Cipher<|||>1<|||>
+Servers\Restaurante_\ServerVersionFull<|||>1<|||>10.4.11-MariaDB - mariadb.org binary distribution
+Servers\Restaurante_\ConnectCount<|||>3<|||>2
+Servers\Restaurante_\ServerVersion<|||>3<|||>100411
+Servers\Restaurante_\LastConnect<|||>1<|||>2020-03-01 15:03:42
+Servers\Restaurante_\lastUsedDB<|||>1<|||>restaurante
+Servers\Restaurante_\RefusedCount<|||>3<|||>4
+Servers\Unnamed\SessionCreated<|||>1<|||>2020-02-13 07:08:31
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>2
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>5
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\RefusedCount<|||>3<|||>2
+Servers\Unnamed-1\SessionCreated<|||>1<|||>2020-02-13 08:47:07
+Servers\Unnamed-1\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-1\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-1\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-1\User<|||>1<|||>root
+Servers\Unnamed-1\Password<|||>1<|||>1
+Servers\Unnamed-1\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-1\Port<|||>1<|||>3306
+Servers\Unnamed-1\NetType<|||>3<|||>0
+Servers\Unnamed-1\Compressed<|||>3<|||>0
+Servers\Unnamed-1\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-1\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-1\KeepAlive<|||>3<|||>20
+Servers\Unnamed-1\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-1\Databases<|||>1<|||>
+Servers\Unnamed-1\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-1\Comment<|||>1<|||>
+Servers\Unnamed-1\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-1\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-1\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-1\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPassword<|||>1<|||>4
+Servers\Unnamed-1\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-1\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-1\SSL_Active<|||>3<|||>0
+Servers\Unnamed-1\SSL_Key<|||>1<|||>
+Servers\Unnamed-1\SSL_Cert<|||>1<|||>
+Servers\Unnamed-1\SSL_CA<|||>1<|||>
+Servers\Unnamed-1\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-1\ServerVersionFull<|||>1<|||>10.4.11-MariaDB - mariadb.org binary distribution
+Servers\Unnamed-1\ConnectCount<|||>3<|||>1
+Servers\Unnamed-1\ServerVersion<|||>3<|||>100411
+Servers\Unnamed-1\LastConnect<|||>1<|||>2020-02-13 08:47:12
+Servers\Unnamed-1\lastUsedDB<|||>1<|||>restaurante
+Servers\Unnamed-2\SessionCreated<|||>1<|||>2020-02-13 08:47:58
+Servers\Unnamed-2\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-2\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-2\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-2\User<|||>1<|||>root
+Servers\Unnamed-2\Password<|||>1<|||>9
+Servers\Unnamed-2\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-2\Port<|||>1<|||>3306
+Servers\Unnamed-2\NetType<|||>3<|||>0
+Servers\Unnamed-2\Compressed<|||>3<|||>0
+Servers\Unnamed-2\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-2\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-2\KeepAlive<|||>3<|||>20
+Servers\Unnamed-2\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-2\Databases<|||>1<|||>
+Servers\Unnamed-2\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-2\Comment<|||>1<|||>
+Servers\Unnamed-2\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-2\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-2\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-2\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelPassword<|||>1<|||>8
+Servers\Unnamed-2\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-2\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-2\SSL_Active<|||>3<|||>0
+Servers\Unnamed-2\SSL_Key<|||>1<|||>
+Servers\Unnamed-2\SSL_Cert<|||>1<|||>
+Servers\Unnamed-2\SSL_CA<|||>1<|||>
+Servers\Unnamed-2\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-2\ServerVersionFull<|||>1<|||>10.4.11-MariaDB - mariadb.org binary distribution
+Servers\Unnamed-2\ConnectCount<|||>3<|||>1
+Servers\Unnamed-2\ServerVersion<|||>3<|||>100411
+Servers\Unnamed-2\LastConnect<|||>1<|||>2020-02-13 08:48:06
+Servers\Unnamed-2\lastUsedDB<|||>1<|||>
